@@ -4,7 +4,7 @@
 This project demonstrates a complete Azure-based data engineering pipeline for the 2021 Tokyo Olympics dataset. The dataset contains details about athletes, medals, events, and countries that participated in the Tokyo 2021 Olympic Games.
 
 ## Architecture Diagram
-![Project Architecture](Architecture/ArchitectureDiagram.jpg)
+![Project Architecture](Architecture/Architecture Diagram.jpg)
 
 ## 📁 Data Flow Architecture
 Data Ingestion: Dataset was manually uploaded to GitHub and fetched using Azure Data Factory.
